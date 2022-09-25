@@ -1,6 +1,6 @@
 # dribble_create_account_ios
 
-Dribble Inspire Flutter built Authentication UI kit.
+Dribble Inspire Flutter built Create Account UI kit.
 
 Example includes Welcome Screen & Register Screen
 
